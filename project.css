@@ -1,0 +1,39 @@
+body {
+  font-family: "adode-clean", sans-serif;
+  padding: 50px 150px;
+}
+
+.text-para {
+  line-height: 30px;
+}
+
+.note-para {
+  background-color: #ededed;
+  padding: 10px 10px;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.image-back {
+  background-color: #d8d8d8;
+}
+
+/* .black-white {
+  display: flex;
+} */
+
+.example-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.example-container {
+  width: 35%;
+  margin: 0 auto;
+  padding: 10px 10px;
+}
+
+.code-line {
+  font-size: 18px;
+}
